@@ -1,0 +1,15 @@
+html, body {
+    overflow: hidden;
+    background-color: #232323;
+}
+
+#protect, #circle, #arrow1, #arrow2, #arrow3 {
+    fill: #D4D4D4;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 50%;
+    height: 50%;
+    align-items: center;
+    justify-content: center;
+}
